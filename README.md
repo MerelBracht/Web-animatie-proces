@@ -1,3 +1,4 @@
+# Merel Bracht - 500739163
 # Web-animatie-proces
 In dit document laat ik mijn proces zien voor het vak Web-animatie. 
 
